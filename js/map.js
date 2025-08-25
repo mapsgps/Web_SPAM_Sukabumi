@@ -124,13 +124,13 @@ var grupLayers = {
 	selectAllCheckbox: true,
 	children: [
 	
-	{label: '<b> <a href="https://forms.gle/DN47UzkY4DAGCp6m9">ISI FORM TAMBAH DATA</a></b>', 
+	{label: '<b> <a href="https://forms.gle/DN47UzkY4DAGCp6m9" target="_blank">ISI FORM TAMBAH DATA</a></b>', 
 	selectAllCheckbox: true,
 	children: [
 		//{label: "&nbsp;<img src='img/XXX.png' width='20'> xxx", layer: batasAdmin},
 		]},
 	
-	{label: '<b> <a href="https://docs.google.com/spreadsheets/d/1ZT33s1qMe5gRYuKZwt1H3sP2IFJtYFBrZeffBbgkTcw/edit?usp=sharing">TAMPILKAN DATA</a></b>', 
+	{label: '<b> <a href="https://docs.google.com/spreadsheets/d/1ZT33s1qMe5gRYuKZwt1H3sP2IFJtYFBrZeffBbgkTcw/edit?usp=sharing" target="_blank">TAMPILKAN DATA</a></b>', 
 	selectAllCheckbox: true,
 	children: [
 		]},
